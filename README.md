@@ -1,8 +1,8 @@
+# Workout Engine
+
 <p align="center">
   <img src="./file-XXNYKoa7SIbk4QUBoiPFQIZV (1).webp" width="200" alt="Workout Engine Logo">
 </p>
-
-# Workout Engine
 
 **Workout Engine** is a lightweight, flexible, and high-performance workout recommendation engine, designed for use in fitness applications. The engine takes user data, workout history, preferences, and configurations, and generates personalized workout recommendations. It also tracks user progress over time, using a strength model to help optimize workouts for individual users. The engine supports a wide range of exercise types, including resistance training, cardio, yoga, and calisthenics, and allows developers to customize the exercise database or integrate their own.
 
